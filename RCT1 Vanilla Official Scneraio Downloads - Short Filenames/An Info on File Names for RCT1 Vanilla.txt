@@ -1,0 +1,64 @@
+Here are the Extra scenarios with numbered file names for use with RCT1 Vanilla. This vintage game is expecting old fashioned 8-character MS-DOS style names, so changing them to modern long filenames causes them to sometimes not open properly. However, on OpenRCT2, this problem is resolved.
+
+Just copy the contents of this directory (not the directory itself!) into your RCT1 Vanilla Scenarios directory, and you're good to go!
+
+
+Here is a description of the scenario files, copied from
+http://www.jumpjet.info/Classic-Games/Windows/RCT/Scenarios/Scenarios.html
+
+
+
+
+Three official "Extra" scenarios were offered as part of magazine promos:
+downloadgameplay (gameplay.SC4)
+Your objective: To have at least 1,250 guests in your park at the end of October, Year 3, with a park rating of at least 600.
+
+downloadPC Gaming World (Pcgw.SC4)
+Your objective: To have at least 1,250 guests in your park at the end of October, Year 3, with a park rating of at least 600.
+
+downloadPC Player (pcplayer.SC4)
+Your objective: To have at least 1,250 guests in your park at the end of October, Year 3, with a park rating of at least 600.
+
+Hasbro Interactive also sponsored 11 official scenarios for "Competitions":
+downloadSteel Twister Roller Coaster Competition (Comp-st.SC4) [slot #110]
+Your objective: Build the best Steel Twister Roller Coaster you can!
+
+downloadGo Karts Competition (sc114.SC4) [slot #114]
+Your objective: Build the best Go Karts you can!
+
+downloadSteel Corkscrew Roller Coaster Competition (sc116.SC4) [slot #116]
+Your objective: Build the best Steel Corkscrew Roller Coaster you can!
+
+downloadMine Train Roller Coaster Competition (sc117.SC4) [slot #117]
+Your objective: Build the best Mine Train Roller Coaster you can!
+
+downloadSteel Roller Coaster Competition (sc119.SC4) [slot #119]
+Your objective: Build the best Steel Roller Coaster you can!
+
+downloadBobsled Roller Coaster Competition (sc120.SC4) [slot #120]
+Your objective: Build the best Bobsled Roller Coaster you can!
+
+downloadInverted Roller Coaster Competition (sc123.SC4) [slot #123]
+Your objective: Build the best Inverted Roller Coaster you can!
+
+downloadSuspended Roller Coaster Competition (sc124.SC4) [slot #124]
+Your objective: Build the best Suspended Roller Coaster you can!
+
+downloadStand-Up Steel Roller Coaster Competition (sc125.SC4) [slot #125]
+Your objective: Build the best Stand-Up Steel Roller Coaster you can!
+
+downloadWooden Roller Coaster Competition (sc126.SC4) [slot #126]
+Your objective: Build the best Wooden Roller Coaster you can!
+
+downloadSteel Mini-Roller Coaster Competition (sc127.SC4) [slot #127]
+Your objective: Build the best Steel Mini Roller Coaster you can!
+
+Prior to the release of the "RCT Save Game Modifier" utility, programmer Henry Winklestein released an unofficial sandbox "Competitions" scenario.
+
+downloadRCTOA Acres (rctoa.SC4) [slot #100]
+Your objective: Have Fun!
+
+Taiwan Park (taiwan.sc4)
+A scenario that only came with the Taiwaneese version of the game.
+
+

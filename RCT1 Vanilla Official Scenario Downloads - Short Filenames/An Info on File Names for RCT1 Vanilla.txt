@@ -1,7 +1,6 @@
-Here are the Extra scenarios with numbered file names for use with RCT1 Vanilla. 
-This vintage game is expecting old fashioned 8-character MS-DOS style names, 
-so changing them to modern long filenames causes them to sometimes not open properly.
-However, on OpenRCT2, this problem is resolved.
+Here are the Extra scenarios with short, numbered file names for use with RCT1 Vanilla. 
+This vintage game is expecting old fashioned 8-character MS-DOS style names.
+If you play RCT1 Vanilla, use this folder to add scenarios.
 
 Just copy the contents of this directory (not the directory itself!) into your RCT1 
 Vanilla Scenarios directory, and you're good to go!
@@ -65,6 +64,7 @@ Your objective: Have Fun!
 
 Taiwan Park (taiwan.sc4)
 A scenario that only came with the Taiwaneese version of the game.
+
 
 
 

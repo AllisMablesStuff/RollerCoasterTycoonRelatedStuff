@@ -1,0 +1,90 @@
+RCT2 Scenario List
+==================
+
+
+
+1. Main Game
+   1. Beginner
+      1. Crazy Castle
+      2. Electric Fields
+      3. Factory Capers
+
+   2. Challenging
+      1. Amity Airfield
+      2. Botany Breakers
+      3. Bumbly Bazaar
+      4. Dusty Greens
+      5. Fungus Woods
+      6. Gravity Gardens
+      7. Infernal Views
+
+   3. Expert
+      1. Alpine Adventures
+      2. Extreme Heights
+      3. Ghost Town
+      4. Lucky Lake
+      5. Rainbow Summit
+
+
+2. Wacky Worlds
+   1. Beginner
+      1. Africa – Victoria Falls
+      2. Asia – Great Wall of China Tourism Enhancement
+      3. North America – Grand Canyon
+      4. South America – Rio Carnival
+
+   2. Challenging
+      1. Africa – African Diamond Mine
+      2. Asia – Maharaja Palace
+      3. Australasia – Ayers Rock
+      4. Europe – European Cultural Festival
+      5. North America – Rollercoaster Heaven
+      6. South America – Inca Lost City
+
+   3. Expert
+      1. Africa – Oasis
+      2. Antarctic – Ecological Salvage
+      3. Asia – Japanese Coastal Reclaim
+      4. Australasia – Fun at the Beach
+      5. Europe – Renovation
+      6. North America – Extreme Hawaiian Island
+      7. South America – Rain Forest Plateau
+
+
+3. Time Twister
+   1. Beginner
+      1. Dark Age – Robin Hood
+      2. Prehistoric – After the Asteroid
+      3. Roaring Twenties – Prison Island
+      4. Rock ’n’ Roll – Flower Power
+
+   2. Challenging
+      1. Dark Age – Castle
+      2. Future – First Encounters
+      3. Mythological – Animatronic Film Set
+      4. Prehistoric – Jurassic Safari
+      5. Roaring Twenties – Schneider Cup
+
+   3. Expert
+      1. Future – Future World
+      2. Mythological – Cradle of Civilization
+      3. Prehistoric – Stone Age
+      4. Roaring Twenties – Skyscrapers
+      5. Rock ’n’ Roll – Rock ’n’ Roll
+
+
+4. “Real” Parks
+   1. Six Flags Belgium
+   2. Six Flags Great Adventure
+   3. Six Flags Holland
+   4. Six Flags Magic Mountain
+   5. Six Flags Over Texas
+
+
+5. Other Parks
+   1. Build Your Own Six Flags Belgium
+   2. Build Your Own Six Flags Great Adventure
+   3. Build Your Own Six Flags Holland
+   4. Build Your Own Six Flags Magic Mountain
+   5. Build Your Own Six Flags Park
+   6. Build Your Own Six Flags Over Texas

@@ -1,3 +1,7 @@
+RCT1 List of Scenarios
+======================
+
+
 1. RollerCoaster Tycoon (Original)
    1. Forest Frontiers
    2. Dynamite Dunes
@@ -107,4 +111,5 @@
    10. Stand-Up Steel Roller Coaster Competition
    11. Wooden Roller Coaster Competition
    12. Steel Mini-Roller Coaster Competition
+
 

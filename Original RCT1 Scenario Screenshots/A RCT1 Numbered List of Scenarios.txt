@@ -99,7 +99,7 @@ RCT1 List of Scenarios
    2. Fort Anachronism
 
 6. Competitions
-   1. RCTQA Acres
+   1. RCTOA Acres
    2. Steel Twister Roller Coaster Competition
    3. Go Karts Competition
    4. Steel Corkscrew Roller Coaster Competition
